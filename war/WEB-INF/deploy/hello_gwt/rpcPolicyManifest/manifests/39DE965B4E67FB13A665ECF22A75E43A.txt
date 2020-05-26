@@ -1,0 +1,2 @@
+serviceClass: com.companyname.helloproject.client.GreetingService
+path: 8C7BBFB5FBBA27A0BE1DBBF564CF7C54.gwt.rpc
